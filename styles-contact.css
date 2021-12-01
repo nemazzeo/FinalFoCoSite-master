@@ -126,7 +126,7 @@ nav{
 	margin-top: 2em; /* This adds a bit of space above the nav element */
 	}
 	nav li{
-	display: inline; /* This allows
+	display: inline-block; /* This allows
 	the block level elements to
 	display next to one another */
 	}
